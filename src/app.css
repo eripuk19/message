@@ -1,3 +1,4 @@
+/* Style the body */
 body {
     display: flex;
     align-items: center;
@@ -9,7 +10,7 @@ body {
     background-color: #f4f4f9;
 }
 
-
+/* Style the header */
 header {
     background-color: #4CAF50;
     color: white;
@@ -22,7 +23,7 @@ header {
     width: 100%;
 }
 
-
+/* Style the main section */
 main {
     display: flex;
     align-items: center;
@@ -34,7 +35,7 @@ main {
     margin: 20px;
 }
 
-
+/* Style the footer */
 footer {
     background-color: #4CAF50;
     color: white;

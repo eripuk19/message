@@ -1,20 +1,29 @@
+ ## Project
+ 
+ # * Title: Message 
+
+ # *  Description: This is my little project. It consists of three important parts. Header, footer and main. 
+   In main part at first it asks the user to write whatever they want in the text field and than the message 
+   that its writen there is going to show as heading.
+
+ # * Programmin language: JavaScript
+
+ # * Author: Erisa Puka
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Creating a project
+## Installation
 
-If you're seeing this, you've probably already done this step. Congrats!
+### to install it we use:
+npm install
 
-```bash
-# create a new project in the current directory
-npx sv create
+#### to open the development server:
+npm run dev
 
-# create a new project in my-app
-npx sv create my-app
-```
 
-## Developing
+# Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
